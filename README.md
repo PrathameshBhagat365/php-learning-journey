@@ -9,4 +9,11 @@ My journey of learning PHP from scratch — projects, notes, and exercises and m
  Ran PHP on localhost using Apache
  Printed my first output using `echo`
 
-> Output: `Hello, PHP World!`
+> Output: `Hello, PHP World!
+
+Day 2: Variables and Data Types
+
+- Learned how to declare and use variables
+- Explored data types: string, integer, float, boolean
+- Practiced with arithmetic and assignment operators
+- Created a basic calculator
