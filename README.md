@@ -17,3 +17,8 @@ Day 2: Variables and Data Types
 - Explored data types: string, integer, float, boolean
 - Practiced with arithmetic and assignment operators
 - Created a basic calculator
+
+Day 3: Conditions and Loops
+- Practiced using if, else, elseif, and switch statements
+- Learned loops: for, while, and foreach
+- Made a simple login simulation using conditionals
