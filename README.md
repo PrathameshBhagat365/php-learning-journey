@@ -1,5 +1,6 @@
 # php-learning-journey
-My journey of learning PHP from scratch — projects, notes, and exercises and many more.
+My journey of learning PHP from scratch
+projects, notes, and exercises and many more.
 
 
  Day 1: Setup + Hello World
@@ -22,3 +23,9 @@ Day 3: Conditions and Loops
 - Practiced using if, else, elseif, and switch statements
 - Learned loops: for, while, and foreach
 - Made a simple login simulation using conditionals
+
+Day 4: Arrays and Functions
+- Learned Indexed, Associative, and Multidimensional arrays
+- Used array functions like count(), array_push(), and sort()
+- Created custom functions with parameters and return values
+
