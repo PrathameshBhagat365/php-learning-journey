@@ -29,3 +29,7 @@ Day 4: Arrays and Functions
 - Used array functions like count(), array_push(), and sort()
 - Created custom functions with parameters and return values
 
+Day 5: HTML Form (GET)
+- Created a simple feedback form
+- Learned how to send data using GET method
+- Practiced accessing values using $_GET superglobal
