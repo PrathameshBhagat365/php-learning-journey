@@ -33,3 +33,21 @@ Day 5: HTML Form (GET)
 - Created a simple feedback form
 - Learned how to send data using GET method
 - Practiced accessing values using $_GET superglobal
+
+IN Browser I see 
+Feedback Form 
+
+Name:     [           ]
+
+Message:  [ Your message here            ]
+
+[Submit]
+
+I entered...
+Name: Prathamesh
+
+Message: This is my first PHP form
+
+> Output: Form Submitted
+Hello, Prathamesh!
+Your message: This is my first PHP form
