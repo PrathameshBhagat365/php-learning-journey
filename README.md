@@ -51,3 +51,18 @@ Message: This is my first PHP form
 > Output: Form Submitted
 Hello, Prathamesh!
 Your message: This is my first PHP form
+
+Day 6: POST Form + Validation
+- Created a login form using POST method
+- Learned how to validate empty fields using `empty()`
+- Used `$_POST` safely instead of GET
+
+Enter:
+Username: Prathamesh
+Password: 12345
+
+Click Submit → goes to form_post_result.php
+
+Output:✅ Login Successful
+Welcome, Prathamesh
+
