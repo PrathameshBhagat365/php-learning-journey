@@ -66,3 +66,19 @@ Click Submit → goes to form_post_result.php
 Output:✅ Login Successful
 Welcome, Prathamesh
 
+Day 7: Input Sanitization with trim(), htmlspecialchars() & filter_var()
+Today is about securing your form data and cleaning it up before use
+Day 7: Input Sanitization
+- Used `trim()`, `htmlspecialchars()`, and `filter_var()` to clean form input
+- Prevented XSS by escaping HTML
+- Validated email using `FILTER_VALIDATE_EMAIL`
+> Output:
+✅ Message Received
+Thank you, Prathamesh!
+We will reply to hello@bad.com
+Your Message: Hello &lt;b&gt;world&lt;/b&gt;
+
+
+
+
+
