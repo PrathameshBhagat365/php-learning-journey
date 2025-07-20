@@ -78,6 +78,12 @@ Thank you, Prathamesh!
 We will reply to hello@bad.com
 Your Message: Hello &lt;b&gt;world&lt;/b&gt;
 
+Day 8: Feedback Collector
+
+reated a simple form with Name, Email, and Message
+- Sanitized and validated user input
+- Displayed clean summary on submit
+
 
 
 
