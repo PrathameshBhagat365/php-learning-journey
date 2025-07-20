@@ -83,6 +83,13 @@ Day 8: Feedback Collector
 reated a simple form with Name, Email, and Message
 - Sanitized and validated user input
 - Displayed clean summary on submit
+> Output:Shown After Submission:
+✅ Thank You for Your Feedback!
+
+Name: Prathamesh Bhagat  
+Email: prathamesh@example.com  
+Message:  
+This PHP course is amazing! 🔥🔥
 
 
 
