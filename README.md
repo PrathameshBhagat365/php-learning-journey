@@ -93,6 +93,9 @@ This PHP course is amazing! 🔥🔥
 
 Day 8:Toady I'll learn
 
+Stored user messages in a `.txt` file
+- Learned `fopen()`, `fwrite()`, `fclose()` functions
+
 How to write to a .txt file using PHP
 How to append data without overwriting previous entries
 Using fopen(), fwrite(), and fclose()
