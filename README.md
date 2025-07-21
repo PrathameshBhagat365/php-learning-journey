@@ -91,7 +91,13 @@ Email: prathamesh@example.com
 Message:  
 This PHP course is amazing! 🔥🔥
 
+Day 8:Toady I'll learn
 
+How to write to a .txt file using PHP
+How to append data without overwriting previous entries
+Using fopen(), fwrite(), and fclose()
+Basic error handling with files
 
+feedbacks.txt(This is new File where)
 
 
