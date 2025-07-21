@@ -99,5 +99,5 @@ Using fopen(), fwrite(), and fclose()
 Basic error handling with files
 
 feedbacks.txt(This is new File where)
-
+Each new submission will be added below the previous one.
 
