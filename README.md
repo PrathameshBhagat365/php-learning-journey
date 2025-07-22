@@ -108,3 +108,8 @@ Day 10 : Read Data from Text File & Display on Webpage
 Read data from `feedbacks.txt`
 - Used `file_get_contents()` and `explode()` to show all entries
 - Displayed feedback using custom CSS blocks
+output > 📬 Submitted Feedbacks
+
+[ ] Name: Prathamesh Bhagat
+    Email: pb@example.com
+    Message: Loving this PHP project!
