@@ -104,3 +104,7 @@ Basic error handling with files
 feedbacks.txt(This is new File where)
 Each new submission will be added below the previous one.
 
+Day 10 : Read Data from Text File & Display on Webpage
+Read data from `feedbacks.txt`
+- Used `file_get_contents()` and `explode()` to show all entries
+- Displayed feedback using custom CSS blocks
