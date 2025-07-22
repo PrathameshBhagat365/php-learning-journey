@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>📝 Sign the Guest Book</title>
+    <style>
+        body { font-family: Arial; padding: 30px; }
+        form { margin-bottom: 20px; }
+        input, textarea {
+            width: 100%; padding: 10px; margin-bottom: 10px;
+        }
+        button {
+            background: #4CAF50; color: white;
+            padding: 10px 20px; border: none;
+        }
+    </style>
+</head>
+<body>
+    <h2>📝 Sign the Guest Book</h2>
+    <form action="index.php" method="POST">
+        <input type="text" name="name" placeholder="Your name" required>
+        <textarea name="message" placeholder="Your message..." rows="4" required></textarea>
+        <button type="submit">Submit</button>
+    </form>
+
+    <?php
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        $name = htmlspecialchars($_POST['name']);
+        $message = htmlspecialchars($_POST['message']);
+
+        $entry = "👤 $name\n🗒️ $message\n🕒 " . date("Y-m-d H:i:s") . "\n---\n";
+
+        file_put_contents("entries.txt", $entry, FILE_APPEND);
+        echo "<p>✅ Thank you for signing the guest book!</p>";
+    }
+    ?>
+
+    <a href="view_entries.php">📚 View All Entries</a>
+</body>
+</html>
