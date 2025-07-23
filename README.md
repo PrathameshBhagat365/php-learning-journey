@@ -113,3 +113,16 @@ output > 📬 Submitted Feedbacks
 [ ] Name: Prathamesh Bhagat
     Email: pb@example.com
     Message: Loving this PHP project!
+    
+Day 11 :
+What is an Array in PHP?
+Indexed Arrays (Numerical keys)
+Associative Arrays (Named keys)
+foreach and for loops for arrays
+Array functions like count(), array_push(), etc.
+
+output1; 
+A bullet list of fruits.
+Total count.
+output2; 
+Key-value list of a student's info.
