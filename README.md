@@ -126,3 +126,31 @@ A bullet list of fruits.
 Total count.
 output2; 
 Key-value list of a student's info.
+
+Project day
+
+# 🎓 Student Management System (SMS) – PHP & MySQL
+
+A simple, clean and functional Student Management System built using **PHP** and **MySQL**, designed for learning CRUD operations, form handling, and database integration.
+
+---
+
+📌 Features
+
+- ✅ Add New Student
+- ✏️ Edit Student Details
+- ❌ Delete Student
+- 📋 List All Students
+- 🔍 Search Students by Name or Class
+- 💾 MySQL Database Integration
+- 🎨 Simple UI using Bootstrap (optional)
+
+---
+
+🛠️ Tech Stack
+
+| Tool         | Purpose                |
+|--------------|------------------------|
+| PHP          | Backend Logic          |
+| MySQL        | Database               |
+| HTML/CSS     | Frontend UI            |
