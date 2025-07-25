@@ -155,5 +155,18 @@ Tech Stack
 | HTML/CSS     | Frontend UI            |
 
 Day 12
+Creating a Multidimensional Array
+//
+$students = [
+    ["name" => "Riya", "marks" => 85],
+    ["name" => "Aman", "marks" => 78],
+    ["name" => "Sneha", "marks" => 92]
+];
+
+ Accessing Values
+//
+echo $students[0]["name"];    // Output: Riya
+echo $students[2]["marks"];   // Output: 92
+
 
 
